@@ -1,4 +1,4 @@
-# bitcoin_Live_chart
+# Bitcoin Market Live chart
 
 ![newplot](https://github.com/akhilkarthik/bitcoin_Live_chart/assets/40953068/d130578b-0326-4171-abcd-29dba5fee28c)
 
